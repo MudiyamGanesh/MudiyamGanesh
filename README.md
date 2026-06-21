@@ -1,16 +1,16 @@
 # Hi, I'm Ganesh 👋
 
-B.Tech Computer Science Student (2023–2027)
+B.Tech Computer Science Student | Class of 2027
 
 Aspiring DevOps Engineer focused on Linux, Git, Bash, Python, and Cloud Technologies.
 
-## Currently Learning
+## Current Focus
 
+- Preparing for DevOps Internships
 - Linux Administration
 - Git & GitHub
 - Bash Scripting
-- Python Automation
-- DevOps Fundamentals
+- Automation Projects
 
 ## Projects
 
