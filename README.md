@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ganesh 👋
 
-<!--
-**MudiyamGanesh/MudiyamGanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science Student (2023–2027)
 
-Here are some ideas to get you started:
+Aspiring DevOps Engineer focused on Linux, Git, Bash, Python, and Cloud Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Linux Administration
+- Git & GitHub
+- Bash Scripting
+- Python Automation
+- DevOps Fundamentals
+
+## Projects
+
+### EchoNotes
+Cross-platform offline-first note-taking application built using React, SQLite, Tauri, Capacitor, and Firebase.
+
+### LoRa-Based Bus GPS Tracker
+Real-time bus tracking system using ESP32, LoRa, GPS, and Firebase developed during the STAR-PNT Internship under IIT Tirupati Navavishkar I-Hub Foundation.
+
+## Tech Stack
+
+- Linux
+- Git
+- GitHub
+- Bash
+- Python
+- Java
+- React
+- Firebase
+- SQLite
+
+## Career Goal
+
+Currently preparing for DevOps internships while building hands-on experience in Linux, automation, cloud technologies, and infrastructure engineering.
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/ganesh-mudiyam
+
+Email:
+ramganeshm190@gmail.com
