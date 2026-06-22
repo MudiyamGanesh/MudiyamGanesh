@@ -2,7 +2,7 @@
 
 B.Tech Computer Science Student (2023–2027) | Aspiring DevOps Engineer
 
-I am currently focused on building a strong foundation in Linux administration, automation, version control, and cloud technologies while preparing for DevOps internships and infrastructure-focused engineering roles.
+Passionate about Linux systems, automation, cloud technologies, and infrastructure engineering. Currently building hands-on experience with Linux, Git, Bash, Python, and DevOps tools while preparing for DevOps and Cloud internships.
 
 ## Current Focus
 
@@ -12,10 +12,38 @@ I am currently focused on building a strong foundation in Linux administration, 
 * Python Automation
 * DevOps Fundamentals
 * Building Hands-On Projects
+  
+## Certifications
+
+### Linux Foundation
+
+- Introduction to Linux (LFS101) – Linux Foundation (2026)
+
+### Amazon Web Services (AWS)
+
+- AWS Academy Graduate – Cloud Foundations (2024)
+- AWS Academy Graduate – Cloud Architecting (2024)
+
+## Internship Experience
+
+### STAR-PNT Intern | IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF)
+
+Completed a 2-month internship under the Positioning, Navigation and Timing (PNT) Lab.
+
+**Key Contributions**
+
+- Developed a LoRa-based GPS tracking system for college buses
+- Implemented real-time location tracking using ESP32 and Neo-6M GPS
+- Integrated Firebase Realtime Database for cloud synchronization
+- Built a web dashboard for route visualization and monitoring
+
+**Technologies**
+
+ESP32, LoRa, GPS, Firebase, JavaScript, HTML, CSS
 
 ## Featured Projects
 
-### EchoNotes
+### [EchoNotes](https://github.com/MudiyamGanesh/EchoNotes)
 
 A cross-platform offline-first note-taking application designed for local-first productivity and seamless synchronization.
 
@@ -31,7 +59,7 @@ A cross-platform offline-first note-taking application designed for local-first 
 
 ---
 
-### LoRa-Based College Bus GPS Tracker
+### [LoRa-Based College Bus GPS Tracker](https://github.com/MudiyamGanesh/LoRa-based-Bus-GPS-Tracker)
 
 Developed as part of the **STAR-PNT Internship** conducted by the **Positioning, Navigation and Timing (PNT) Lab at IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF)**.
 
@@ -77,9 +105,14 @@ A real-time long-range bus tracking system that transmits GPS coordinates using 
 * GPS Tracking
 * Embedded Systems
 
-## Career Goal
+## Currently Learning
 
-My goal is to build expertise in DevOps, cloud infrastructure, automation, and platform engineering through continuous learning, hands-on projects, and internship experience.
+- Linux Process Management
+- Advanced Bash Scripting
+- Docker
+- GitHub Actions
+- CI/CD Fundamentals
+- Cloud Infrastructure
 
 ## Connect With Me
 
