@@ -17,12 +17,12 @@ Passionate about Linux systems, automation, cloud technologies, and infrastructu
 
 ### Linux Foundation
 
-- Introduction to Linux (LFS101) – Linux Foundation (2026)
+- [Introduction to Linux (LFS101) – Linux Foundation (2026)] (https://www.credly.com/badges/f43ff838-3f04-4f2a-838a-d8b997092276/public_url)
 
 ### Amazon Web Services (AWS)
 
-- AWS Academy Graduate – Cloud Foundations (2024)
-- AWS Academy Graduate – Cloud Architecting (2024)
+- [AWS Academy Graduate – Cloud Foundations (2024)] (https://www.credly.com/badges/15255700-ccae-41d5-b2e6-51bf676d4711/public_url)
+- [AWS Academy Graduate – Cloud Architecting (2024)] (https://www.credly.com/badges/37fe1b00-3404-4c53-9691-c13cf2bc0074/public_url)
 
 ## Internship Experience
 
